@@ -1,6 +1,6 @@
 # Undergrad Archive
 
-This repository is a graveyard for old, throwaway projects from when I was learning to code in undergrad. It is unmaintained, unpolished, and largely abandoned.
+My repositories are a graveyard for old, throwaway projects from when I was learning to code in undergrad. It is unmaintained, unpolished, and largely abandoned.
 
 ---
 
