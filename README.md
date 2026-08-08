@@ -4,7 +4,7 @@ My repositories are a graveyard for projects from when I was learning to code in
 
 Currently graduated from University of Wisconsin-Madison with 2ish years of software development in a variety of buisness and academic environments.
 
-I enjoy innovating upon novel ideas. In my personal time, I use software to answer particularly interesting questions from reservation tools to physics simulations. Please reach out for collaboration or consulting.
+I enjoy innovating upon novel ideas and really challenging problems that make you rethink life. In my personal time, I use software to answer particularly interesting questions from reservation tools to physics simulations. Please reach out for collaboration or consulting.
 
 ---
 
